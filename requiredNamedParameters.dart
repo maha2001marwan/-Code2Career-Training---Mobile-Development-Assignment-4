@@ -3,5 +3,5 @@ void registerUser({required String username, required String email}) {
 }
 
 void main() {
-  registerUser(username: "Layla", email: "layla@example.com");
+  registerUser(username: "Layla", email: "layla@gmail.com");
 }
